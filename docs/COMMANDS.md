@@ -28,6 +28,8 @@ amountに金額、userに送金先のユーザーを入力してください。�
 
 残高が足りない場合は送金ができません。
 
+※指定したユーザーが口座を持っていない場合は送金ができません。口座があるか確認する場合は[search](https://github.com/Quantum8060-org/North-Jupiter-BOT-docs/blob/main/docs/COMMANDS.md#-search-user)
+
 
 ## ④ /search \{user\}
 指定したユーザーに口座が存在するか確認します。
