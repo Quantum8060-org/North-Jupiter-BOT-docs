@@ -15,11 +15,6 @@
 自分の所持金を確認できます。
 
 
-## ② /help
-
-このBOTの簡単な使い方を表示します。
-
-
 ## ③ /pay \{amount\} \{user\} \{company\} \{reason\}
 
 指定したユーザー・企業に送金します。
@@ -31,14 +26,8 @@ amountに金額、userに送金先のユーザー、companyに送金先の企業
 ※指定したユーザーが口座を持っていない場合は送金ができません。口座があるか確認する場合は[search](https://github.com/Quantum8060-org/North-Jupiter-BOT-docs/blob/main/docs/COMMANDS.md#-search-user)コマンドを実行してください。
 
 
-## ④ /search \{user\}
-指定したユーザーに口座が存在するか確認します。
-
-※このBOTは口座が存在しないと送金等の操作ができません。指定のチャンネルで口座を作成してください。
-
-
-## ⑤ /tra
-自分の送金履歴を確認できます。
+## ④ /anonymous \{text\} \{image\}
+匿名メッセージを送信します。
 
 
 ## ⑥ /mcstatus
